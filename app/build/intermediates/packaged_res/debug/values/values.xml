@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">110647531719</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8-gTfRIhX2u2IYsTCMQzQqFkgD3axEz4</string>
+    <string name="google_app_id" translatable="false">1:110647531719:android:25e8e09dd448bd9cf386e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8-gTfRIhX2u2IYsTCMQzQqFkgD3axEz4</string>
+    <string name="google_storage_bucket" translatable="false">smehotteka.firebasestorage.app</string>
+    <string name="project_id" translatable="false">smehotteka</string>
+</resources>
