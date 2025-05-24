@@ -7,3 +7,6 @@
 /.externalNativeBuild
 .cxx
 .DS_Store
+# Исключаем слишком большие файлы
+gradle-8.7-bin.zip
+gradle/lib/kotlin-compiler-embeddable-1.9.22.jar
