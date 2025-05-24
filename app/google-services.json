@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110647531719",
+    "project_id": "smehotteka",
+    "storage_bucket": "smehotteka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110647531719:android:25e8e09dd448bd9cf386e2",
+        "android_client_info": {
+          "package_name": "com.smehotteka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-gTfRIhX2u2IYsTCMQzQqFkgD3axEz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
